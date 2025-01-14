@@ -6,4 +6,4 @@
  
 - [**Rotation**](https://developer.android.com/media/camera/camerax/configuration#rotation) : 사진 회전<br>
 
-  - ImageCapture를 일반적으로 사용할 때, 가로방향으로 사진을 회전할 경우 rotation 해줘야 합니다. (링크에서 코드 확인 가능합니다.)
+  - ImageCapture를 일반적으로 사용할 때, 가로방향으로 사진을 회전할 경우 rotation 해줘야 합니다.
